@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alkye</string>
+    <string name="alkye">Alkye</string>
+    <string name="annesh_bond">Annesh Bond</string>
+    <string name="car">car</string>
+    <string name="search">Search....</string>
+    <string name="view_all">View All</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_this_is_bookmark">Hello This is Bookmark</string>
+    <string name="hello_notification_fragment">Hello Notification Fragment</string>
+    <string name="hello_this_is_profile_fragment">Hello This is Profile Fragment</string>
+    <string name="hello_this_is_stream_fragment">Hello This is STream fragment</string>
+    <string name="social_connect">Social Connect</string>
+    <string name="stay_update_with_my_latest_post_on_your_favorite_platforms">Stay update with my latest post\non your favorite platforms</string>
+</resources>
